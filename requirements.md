@@ -1,5 +1,71 @@
-## 팀코드 25808
+# 팀코드 25808
 
+## 역할 분담
+
+### B411074 문지현
+4구간의 requirement list, use case diagrams, use case descriptions 작성  
+
+**[4구간]**  
+10. 자전거 반납 및 식당 예약 서비스 연계 기능  
+11. 결제 및 요금 조회 기능  
+12. 이용 내역 조회/삭제 기능  
+
+- 4구간의 requirement list, use case diagrams(Visual Paradigm 사용), use case descriptions 작성 후 Git에 커밋  
+- 작성된 문서 내 오탈자 및 논리적 오류를 검토하고 수정함  
+- 팀 내 긍정적인 분위기를 주도하며 협업을 원활히 이끔  
+- 수업시간 진행했던 실습들을 정리해 이번 과제와 대조 비교
+
+---
+
+### C017084 유진혁
+1구간의 requirement list, use case diagrams, use case descriptions 작성 및 전체 문서 통합  
+
+**[1구간]**  
+1. 회원 가입 기능  
+2. 회원 탈퇴 기능  
+3. 로그인/로그아웃 기능  
+- 1~4구간 통합  
+
+- 1구간의 requirement list(Markdown), use case diagrams(StarUML 사용), use case descriptions 작성 후 Git에 커밋  
+- requirements 및 use case descriptions 작성을 위한 마크다운 양식 템플릿 제작  
+- 전체 문서 통합 및 GitHub 레포지토리 관리 수행  
+- 회의를 주도하며 팀원 작업물 병합  
+- 오프라인 미팅 전 팀원 작업물 검토 및 의견 차이 정리  
+
+---
+
+### C017166 이다경
+3구간의 requirement list, use case diagrams, use case descriptions 작성  
+
+**[3구간]**  
+6. 대여소 검색 기능  
+7. 상세정보 조회 및 자전거 즉시대여/예약대기 기능  
+8. 자전거 대여 정보 조회  
+9. 자전거 예약대기 정보 조회/취소  
+
+- 3구간의 requirement list, use case diagrams(StarUML 사용), use case descriptions 작성 후 Git에 커밋  
+- GitHub 사용법을 정리해 팀원들에게 전달하고 실습을 도와줌  
+- 소프트웨어공학 강의 Q&A를 참고하여 작성 내용 보완  
+- 회의 간 중요한 정보와 특이사항들을 기록, 공유하여 팀원에게 전달
+
+---
+
+### C235433 하지희
+2구간의 requirement list, use case diagrams, use case descriptions 작성  
+
+**[2구간]**  
+4. 대여소 등록/조회/삭제 기능  
+5. 자전거 등록/조회/삭제 기능  
+13. 통계 기능  
+
+- 2구간의 requirement list, use case diagrams(Visual Paradigm 사용), use case descriptions 작성 후 Git에 커밋  
+- GitHub 레포지토리를 개설하고 전체 작업 일정을 조율함
+- 기능을 역할 기반(관리자/사용자)으로 분류하여 효율적인 작업 분배 도모
+- 교재 내용을 정리해 팀원들에게 이해를 돕기 위해 공유
+
+
+
+## requirements
 | No. | 요구사항| Use Case(s)|
 | --- | --- | --- |
 | 1 | 사용자가 시스템을 이용하기 위해 회원가입을 할 수 있어야 한다.| 회원 가입|
